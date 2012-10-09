@@ -12,6 +12,8 @@
             <string>koans\about_array_assignment.rb</string>
             <key>hash</key>
             <string>koans\about_hashes.rb</string>
+            <key>iteratio</key>
+            <string>src\about_iteration.rb</string>
         </dict>
     </dict>
 </plist>
